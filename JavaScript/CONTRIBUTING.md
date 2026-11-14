@@ -1,5 +1,5 @@
 # CONTRIBUTING.md
 
-This is a CONTRIBUTING.md file to be followed by AI in vibe coded pure JavaScript projects.
+This CONTRIBUTING.md builds upon https://github.com/dahoum/CONTRIBUTING.md/blob/main/AI/CONTRIBUTING.md
 
-It builds upon https://github.com/dahoum/CONTRIBUTING.md/blob/main/AI/CONTRIBUTING.md
+It extends it to pure JavaScript projects operating on Human Readable Data.
