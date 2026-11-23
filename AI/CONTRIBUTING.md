@@ -1,6 +1,10 @@
 # CONTRIBUTING.md
 
-This is a CONTRIBUTING.md file to be followed by AI in vibe coded projects.
+This is a CONTRIBUTING.md file to be followed by AI during AI assisted software projects.
+
+## Model and Effort Level
+
+Before acting on any Prompt AI must tell the Human whether the chosen Model and Effort Level are sufficient or too much and request a change up or recommend a change down.
 
 ## Spirit, not Law
 
